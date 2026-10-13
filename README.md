@@ -16,6 +16,7 @@
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-vinayak--05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayak-05)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-vinayak__gupta__14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayak_gupta_14/)
   ![Repos](https://img.shields.io/badge/Public%20Repos-13-06B6D4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -91,6 +92,15 @@ const vinayak = {
 </div>
 
 <br>
+
+<!-- LeetCode Stats -->
+<div align="center">
+  <a href="https://leetcode.com/u/vinayak_gupta_14/">
+    <img src="https://leetcard.jacoblin.cool/vinayak_gupta_14?theme=tokyonight" alt="Vinayak's LeetCode Stats" />
+  </a>
+</div>
+
+<br>
 <!-- Featured Projects -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
@@ -144,6 +154,7 @@ const vinayak = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@vinayak--05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayak-05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vinayak__gupta__14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayak_gupta_14/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinayak.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@vinayak.dev)
 
