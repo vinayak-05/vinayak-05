@@ -91,16 +91,7 @@ const vinayak = {
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-05&theme=tokyonight" alt="Contribution Activity & Profile Details" />
 </div>
 
-<br>
 
-<!-- LeetCode Stats -->
-<div align="center">
-  <a href="https://leetcode.com/u/vinayak_gupta_14/">
-    <img src="https://leetcard.jacoblin.cool/vinayak_gupta_14?theme=tokyonight" alt="Vinayak's LeetCode Stats" />
-  </a>
-</div>
-
-<br>
 <!-- Featured Projects -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
