@@ -83,8 +83,14 @@ const vinayak = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
+<br>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-05&theme=tokyonight" alt="Contribution Activity & Profile Details" />
+</div>
 
+<br>
 <!-- Featured Projects -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
