@@ -15,7 +15,6 @@
 <!-- Quick Badges -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=vinayak-05&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
   [![GitHub](https://img.shields.io/badge/GitHub-vinayak--05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayak-05)
   ![Repos](https://img.shields.io/badge/Public%20Repos-13-06B6D4?style=for-the-badge&logo=github&logoColor=white)
 
@@ -37,8 +36,7 @@ const vinayak = {
     tools: ["React", "Next.js", "Node.js", "Vercel", "Git"],
     interests: ["Web Dev", "AI/ML", "Open Source", "Mobile Apps"],
     
-    currentlyBuilding: "Cool stuff, always 🔥",
-    challenge: "Shipping one project every month in 2026"
+    currentlyBuilding: "Cool stuff, always 🔥"
 };
 ```
 
@@ -126,15 +124,6 @@ const vinayak = {
 
 <br>
 
-<!-- Snake Animation -->
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/vinayak-05/vinayak-05/output/github-snake-dark.svg)
-
-</div>
-
-<br>
-
 <!-- Vibe Check -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="28" /> &nbsp;Vibe Check
 
@@ -165,15 +154,6 @@ const vinayak = {
 
 <br>
 
-<!-- Trophy -->
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vinayak-05&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
 <!-- Footer -->
 <div align="center">
   
@@ -182,8 +162,6 @@ const vinayak = {
 </div>
 
 <div align="center">
-  
-  **💜 If you like what I do, consider giving a ⭐ to my repos!**
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" />
   
